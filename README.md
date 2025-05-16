@@ -9,8 +9,9 @@ This repository contains materials related to Presburger Arithmetic, semilinear 
 3. [Presburger Arithmetic](#presburger-arithmetic)
 4. [Semilinear Sets](#semilinear-sets)
 5. [Automata-Based Construction](#automata-based-construction)
-6. [Examples and Applications](#examples-and-applications)
-7. [References](#references)
+6. [Decidability](#decidability)
+7. [Examples and Applications](#examples-and-applications)
+8. [References](#references)
 
 ---
 
